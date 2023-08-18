@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.4//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="mine.design.en.dao.PictureDao">
+    <resultMap id="picture" type="Picture">
+        <id property="id" column="id" javaType="Integer"/>
+        <result property="filename" column="filename" javaType="String"/>
+        <result property="datamarket" column="datamarket" javaType="String"/>
+        <result property="classes" column="classes" javaType="String"/>
+        <result property="modelname" column="modelname" javaType="String"/>
+        <result property="time_last" column="time_last" javaType="String"/>
+        <result property="accurate" column="accurate" javaType="String"/>
+    </resultMap>
+
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id" parameterType="picture">
+        insert into test(id,filename,classes,modelname,datamarket,time_last,accurate)
+        values(#{id},#{filename},#{classes},#{modelname},#{datamarket},#{time_last},#{accurate})
+    </insert>
+    <select id="selectTime" resultMap="picture" parameterType="String">
+        select filename,modelname,time_last from test order by id desc
+    </select>
+    <select id="selectAccurate" resultMap="picture" parameterType="String">
+        select filename,modelname,accurate from test order by id desc
+    </select>
+    <select id="getAll" resultMap="picture" parameterType="String">
+        select filename,classes,modelname,datamarket from test order by id desc
+    </select>
+</mapper>

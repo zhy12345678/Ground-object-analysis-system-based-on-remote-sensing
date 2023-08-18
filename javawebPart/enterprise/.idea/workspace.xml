@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="oa_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="151099f6-c567-4e74-bc22-59ef1221b9f1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/oa_dao/target/" />
+    <ignored path="$PROJECT_DIR$/oa_web/target/" />
+    <ignored path="$PROJECT_DIR$/oa_biz/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="enterprise@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="oa" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/accurate_list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-247">
+              <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/mine/design/en/controller/PictureController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1444">
+              <caret line="101" column="29" selection-start-line="101" selection-start-column="29" selection-end-line="101" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_biz/src/main/resources/spring-biz.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" selection-start-line="24" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_biz/src/main/java/mine/design/en/biz/PictureBiz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_biz/src/main/java/mine/design/en/biz/impl/PictureBizImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <folding>
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_dao/src/main/resources/mine/design/en/dao/PictureDao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="XML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Python Script" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/picture_add.jsp" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/datamarket_introduce.jsp" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/modelname_introduce.jsp" />
+        <option value="$PROJECT_DIR$/oa_dao/src/main/java/mine/design/en/entity/Picture.java" />
+        <option value="$PROJECT_DIR$/oa_dao/src/main/java/mine/design/en/global/Contant.java" />
+        <option value="$PROJECT_DIR$/oa_dao/src/main/java/mine/design/en/dao/PictureDao.java" />
+        <option value="$PROJECT_DIR$/oa_biz/src/main/java/mine/design/en/biz/PictureBiz.java" />
+        <option value="$PROJECT_DIR$/oa_biz/src/main/java/mine/design/en/biz/impl/PictureBizImpl.java" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/sum_list.jsp" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/java/mine/design/en/controller/PictureController.java" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/accurate_list.jsp" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/time_list.jsp" />
+        <option value="$PROJECT_DIR$/oa_dao/src/main/resources/mine/design/en/dao/PictureDao.xml" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.6.3\repository" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="12" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectId" id="1rQgFwaZ7BRWay2WE0cKi9zmuML" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="enterprise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oa_web" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="enterprise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oa_web" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="enterprise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oa_web" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="enterprise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oa_web" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="enterprise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oa_web" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="enterprise" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oa_web" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CNN\个人的文档准备提交\源码\源码\enterprise\oa_web\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\Users\10541\Desktop\LEMarket-master\enterprise\oa_web\src\main\resources" />
+      <recent name="C:\Users\10541\Desktop\LEMarket-master\enterprise\oa_web\src\main\java\mine\design\en" />
+      <recent name="C:\Users\10541\Desktop\LEMarket-master\oa\oa_web\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\Users\10541\Desktop\LEMarket-master\oa\oa_dao\src\main\resources\mine\design\oa\dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mine.design.en" />
+      <recent name="mine.design.en.controller" />
+      <recent name="mine.design.en.config" />
+      <recent name="mine.design.en.entity" />
+      <recent name="mine.design.oa.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10541\Desktop\LEMarket-master\enterprise\oa_web\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\Users\10541\Desktop\LEMarket-master\enterprise\oa_web\src\main\webapp\WEB-INF\model" />
+      <recent name="C:\Users\10541\Desktop\LEMarket-master\oa\oa_dao\src\main\resources\mine\design\oa\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.enterprise">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="enterprise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mine.design.en.controller.MyDemo" />
+      <module name="oa_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mine.design.en.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="enterprise" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.301" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8666/to_add" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="oa_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="department_list_jsp_oa" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+        <option name="HTTP_PORT" value="8666" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64111" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="oa_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyDemo" />
+      <item itemvalue="Tomcat Server.enterprise" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.enterprise" />
+        <item itemvalue="Application.MyDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19546248" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="151099f6-c567-4e74-bc22-59ef1221b9f1" name="Default Changelist" comment="" />
+      <created>1618913627692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618913627692</updated>
+      <workItem from="1618913630998" duration="8214000" />
+      <workItem from="1618972591848" duration="19075000" />
+      <workItem from="1619011774503" duration="79000" />
+      <workItem from="1619051404399" duration="10574000" />
+      <workItem from="1619079857063" duration="10505000" />
+      <workItem from="1619091982405" duration="18854000" />
+      <workItem from="1619572096276" duration="13812000" />
+      <workItem from="1619717944179" duration="3447000" />
+      <workItem from="1619771087179" duration="10981000" />
+      <workItem from="1620313192080" duration="2062000" />
+      <workItem from="1620436544478" duration="3624000" />
+      <workItem from="1620520447697" duration="1854000" />
+      <workItem from="1620896258885" duration="2633000" />
+      <workItem from="1620901649446" duration="9354000" />
+      <workItem from="1621072438083" duration="1403000" />
+      <workItem from="1621078246533" duration="4384000" />
+      <workItem from="1621086939391" duration="4289000" />
+      <workItem from="1621091703443" duration="8441000" />
+      <workItem from="1621100355950" duration="1912000" />
+      <workItem from="1621102389105" duration="4878000" />
+      <workItem from="1621125947044" duration="10734000" />
+      <workItem from="1621137074085" duration="879000" />
+      <workItem from="1621139097241" duration="6443000" />
+      <workItem from="1621255927876" duration="3809000" />
+      <workItem from="1621299509371" duration="10000" />
+      <workItem from="1621331279013" duration="1612000" />
+      <workItem from="1621343124641" duration="4751000" />
+      <workItem from="1621350426594" duration="4627000" />
+      <workItem from="1621385734961" duration="1101000" />
+      <workItem from="1621423638249" duration="31000" />
+      <workItem from="1621438462695" duration="953000" />
+      <workItem from="1621583497192" duration="4151000" />
+      <workItem from="1621908347264" duration="1163000" />
+      <workItem from="1621929526699" duration="7466000" />
+      <workItem from="1622030316900" duration="8555000" />
+      <workItem from="1622080424246" duration="3238000" />
+      <workItem from="1622180671171" duration="2915000" />
+      <workItem from="1622215876095" duration="8411000" />
+      <workItem from="1622307088582" duration="23163000" />
+      <workItem from="1622642309720" duration="2529000" />
+      <workItem from="1622650750919" duration="2466000" />
+      <workItem from="1622717905556" duration="4437000" />
+      <workItem from="1623053429016" duration="945000" />
+      <workItem from="1623254265812" duration="13951000" />
+      <workItem from="1623310597371" duration="978000" />
+      <workItem from="1623391673357" duration="9707000" />
+      <workItem from="1623544539352" duration="1095000" />
+      <workItem from="1623678967226" duration="1198000" />
+      <workItem from="1623942348212" duration="181000" />
+      <workItem from="1623942572834" duration="469000" />
+      <workItem from="1623943597206" duration="41000" />
+      <workItem from="1624241881231" duration="811000" />
+      <workItem from="1624352852037" duration="399000" />
+      <workItem from="1651829870210" duration="2319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41526000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="-7" width="1233" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29021278" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20695364" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3294702" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.097021274" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="19" key="#Inspections" timestamp="1619058700936">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="264" y="19" key="#Inspections/63.0.1217.720@63.0.1217.720" timestamp="1619058700936" />
+    <state x="264" y="19" key="#Project_Structure" timestamp="1618934521495">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="264" y="19" key="#Project_Structure/62.0.1218.720@62.0.1218.720" timestamp="1618934521495" />
+    <state x="96" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622058559551">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="96" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1218.720@62.0.1218.720" timestamp="1622058559551" />
+    <state x="126" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.0.1217.720@63.0.1217.720" timestamp="1621147227201" />
+    <state x="477" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1621936970115">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="477" y="70" key="#com.intellij.ide.util.MemberChooser/62.0.1218.720@62.0.1218.720" timestamp="1621936970115" />
+    <state x="478" y="70" key="#com.intellij.ide.util.MemberChooser/63.0.1217.720@63.0.1217.720" timestamp="1621088022936" />
+    <state x="248" y="34" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1621095039865">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="248" y="34" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/63.0.1217.720@63.0.1217.720" timestamp="1621095039865" />
+    <state x="402" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620906827189">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="402" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/63.0.1217.720@63.0.1217.720" timestamp="1620906827189" />
+    <state x="252" y="0" key="#mine.design.en.controller_in_oa_web" timestamp="1621134000023">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="252" y="0" key="#mine.design.en.controller_in_oa_web/63.0.1217.720@63.0.1217.720" timestamp="1621134000023" />
+    <state x="452" y="116" key="FileChooserDialogImpl" timestamp="1621908539257">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="452" y="116" key="FileChooserDialogImpl/62.0.1218.720@62.0.1218.720" timestamp="1621908539257" />
+    <state x="453" y="116" key="FileChooserDialogImpl/63.0.1217.720@63.0.1217.720" timestamp="1621139717476" />
+    <state width="1175" height="134" key="GridCell.Tab.0.bottom" timestamp="1622355631206">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="134" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1622355631206" />
+    <state width="920" height="285" key="GridCell.Tab.0.bottom/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="1175" height="134" key="GridCell.Tab.0.center" timestamp="1622355631206">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="134" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1622355631206" />
+    <state width="920" height="285" key="GridCell.Tab.0.center/63.0.1217.720@63.0.1217.720" timestamp="1621150591146" />
+    <state width="1175" height="134" key="GridCell.Tab.0.left" timestamp="1622355631206">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="134" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1622355631206" />
+    <state width="920" height="285" key="GridCell.Tab.0.left/63.0.1217.720@63.0.1217.720" timestamp="1621150591146" />
+    <state width="1175" height="134" key="GridCell.Tab.0.right" timestamp="1622355631206">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="134" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1622355631206" />
+    <state width="920" height="285" key="GridCell.Tab.0.right/63.0.1217.720@63.0.1217.720" timestamp="1621150591146" />
+    <state width="921" height="49" key="GridCell.Tab.1.bottom" timestamp="1622355631198">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="921" height="49" key="GridCell.Tab.1.bottom/62.0.1218.720@62.0.1218.720" timestamp="1622355631198" />
+    <state width="920" height="285" key="GridCell.Tab.1.bottom/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="921" height="49" key="GridCell.Tab.1.center" timestamp="1622355631198">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="921" height="49" key="GridCell.Tab.1.center/62.0.1218.720@62.0.1218.720" timestamp="1622355631198" />
+    <state width="920" height="285" key="GridCell.Tab.1.center/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="921" height="49" key="GridCell.Tab.1.left" timestamp="1622355631198">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="921" height="49" key="GridCell.Tab.1.left/62.0.1218.720@62.0.1218.720" timestamp="1622355631198" />
+    <state width="920" height="285" key="GridCell.Tab.1.left/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="921" height="49" key="GridCell.Tab.1.right" timestamp="1622355631198">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="921" height="49" key="GridCell.Tab.1.right/62.0.1218.720@62.0.1218.720" timestamp="1622355631198" />
+    <state width="920" height="285" key="GridCell.Tab.1.right/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="921" height="49" key="GridCell.Tab.2.bottom" timestamp="1622355631199">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="921" height="49" key="GridCell.Tab.2.bottom/62.0.1218.720@62.0.1218.720" timestamp="1622355631199" />
+    <state width="920" height="285" key="GridCell.Tab.2.bottom/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="921" height="49" key="GridCell.Tab.2.center" timestamp="1622355631198">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="921" height="49" key="GridCell.Tab.2.center/62.0.1218.720@62.0.1218.720" timestamp="1622355631198" />
+    <state width="920" height="285" key="GridCell.Tab.2.center/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="921" height="49" key="GridCell.Tab.2.left" timestamp="1622355631198">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="921" height="49" key="GridCell.Tab.2.left/62.0.1218.720@62.0.1218.720" timestamp="1622355631198" />
+    <state width="920" height="285" key="GridCell.Tab.2.left/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="921" height="49" key="GridCell.Tab.2.right" timestamp="1622355631199">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="921" height="49" key="GridCell.Tab.2.right/62.0.1218.720@62.0.1218.720" timestamp="1622355631199" />
+    <state width="920" height="285" key="GridCell.Tab.2.right/63.0.1217.720@63.0.1217.720" timestamp="1621150591147" />
+    <state width="920" height="249" key="GridCell.Tab.3.bottom" timestamp="1619089579783">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="920" height="249" key="GridCell.Tab.3.bottom/63.0.1217.720@63.0.1217.720" timestamp="1619089579783" />
+    <state width="920" height="249" key="GridCell.Tab.3.center" timestamp="1619089579782">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="920" height="249" key="GridCell.Tab.3.center/63.0.1217.720@63.0.1217.720" timestamp="1619089579782" />
+    <state width="920" height="249" key="GridCell.Tab.3.left" timestamp="1619089579782">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="920" height="249" key="GridCell.Tab.3.left/63.0.1217.720@63.0.1217.720" timestamp="1619089579782" />
+    <state width="920" height="249" key="GridCell.Tab.3.right" timestamp="1619089579783">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="920" height="249" key="GridCell.Tab.3.right/63.0.1217.720@63.0.1217.720" timestamp="1619089579783" />
+    <state x="202" y="16" key="Maven.ArtifactSearchDialog" timestamp="1621350631402">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="202" y="16" key="Maven.ArtifactSearchDialog/62.0.1218.720@62.0.1218.720" timestamp="1621350631402" />
+    <state x="152" y="0" key="SettingsEditor" timestamp="1621348004441">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="152" y="0" key="SettingsEditor/62.0.1218.720@62.0.1218.720" timestamp="1621348004441" />
+    <state x="49" y="0" key="SettingsEditor/63.0.1217.720@63.0.1217.720" timestamp="1621148340669" />
+    <state x="356" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1621385864542">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="356" y="185" key="com.intellij.ide.util.TipDialog/62.0.1218.720@62.0.1218.720" timestamp="1621385864542" />
+    <state x="357" y="185" key="com.intellij.ide.util.TipDialog/63.0.1217.720@63.0.1217.720" timestamp="1621255930059" />
+    <state x="225" y="97" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1619081771293">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="225" y="97" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/63.0.1217.720@63.0.1217.720" timestamp="1619081771293" />
+    <state x="285" y="60" width="773" height="600" key="find.popup" timestamp="1618974434145">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="285" y="60" width="773" height="600" key="find.popup/62.0.1218.720@62.0.1218.720" timestamp="1618974434145" />
+    <state x="56" y="55" key="new project wizard" timestamp="1618934385011">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="56" y="55" key="new project wizard/62.0.1218.720@62.0.1218.720" timestamp="1618934385011" />
+    <state x="328" y="161" key="run.anything.popup" timestamp="1622058970065">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="161" key="run.anything.popup/62.0.1218.720@62.0.1218.720" timestamp="1622058970065" />
+    <state x="329" y="161" key="run.anything.popup/63.0.1217.720@63.0.1217.720" timestamp="1619108108938" />
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1618975962619">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup/62.0.1218.720@62.0.1218.720" timestamp="1618975962619" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/sum_pridect.jsp" />
+    <entry file="file://$PROJECT_DIR$/oa_biz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/datamarket_introduce.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/picture_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/bottom.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/modelname_introduce.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/mine/design/en/dao/PictureDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/sum_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/mine/design/en/global/Contant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/mine/design/en/entity/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+          <folding>
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/test.jsp" />
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/time_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/resources/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_biz/src/main/resources/spring-biz.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_biz/src/main/java/mine/design/en/biz/PictureBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_biz/src/main/java/mine/design/en/biz/impl/PictureBizImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/resources/mine/design/en/dao/PictureDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/mine/design/en/controller/PictureController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="101" column="29" selection-start-line="101" selection-start-column="29" selection-end-line="101" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/accurate_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|enterprise-备份</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

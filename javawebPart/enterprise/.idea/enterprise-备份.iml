@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/oa_biz/src/main/resources/spring-biz.xml</file>
+          <file>file://$MODULE_DIR$/oa_biz/target/classes/spring-biz.xml</file>
+          <file>file://$MODULE_DIR$/oa_dao/target/classes/spring-dao.xml</file>
+          <file>file://$MODULE_DIR$/oa_dao/src/main/resources/spring-dao.xml</file>
+          <file>file://$MODULE_DIR$/oa_web/src/main/resources/spring-web.xml</file>
+          <file>file://$MODULE_DIR$/oa_web/target/oa_web/WEB-INF/classes/spring-web.xml</file>
+          <file>file://$MODULE_DIR$/oa_web/target/classes/spring-web.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
